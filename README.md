@@ -81,22 +81,23 @@ https://parallelum.com.br/fipe/api/v1/carros/marcas/21/modelos/560/anos/2003-1
 
 <b>TELA 1</b>
 
-Consulta ao CEP informado, realizada com sucesso.
+Seleção do tipo de veículo e exibição da lista de marcas ordenadas por ordem alfabética.
 
-![image](https://github.com/Camila-Barros/DesafioJavaBasico4/blob/master/Image1.png)
+![image](https://github.com/Camila-Barros/DesafioJavaTabelaFipe/blob/master/Img01.png)
 
 
 <b>TELA 2</b>
 
-Arquivo com os dados do CEP informado, e nomeado com o próprio CEP.
+Seleção da marca e exibição da lista de modelos ordenados por ordem alfabética.
 
-![image](https://github.com/Camila-Barros/DesafioJavaBasico4/blob/master/Image2.png)
+![image](https://github.com/Camila-Barros/DesafioJavaTabelaFipe/blob/master/Img02.png)
+
 
 <b>TELA 3</b>
 
-Consulta ao CEP informado não realizada, devido ao CEP não ter sido encontrado.
+Seleção do modelo e exibição dos dados da tabela fipe ordenados por ordem decrescente do ano.
 
-![image](https://github.com/Camila-Barros/DesafioJavaBasico4/blob/master/Image3.png)
+![image](https://github.com/Camila-Barros/DesafioJavaTabelaFipe/blob/master/Img03.png)
 
 
 
